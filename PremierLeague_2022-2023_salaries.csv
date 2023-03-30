@@ -1,0 +1,524 @@
+,Name,Club,Salary
+0,Raheem Sterling,Chelsea F.C.,16900000.0
+1,Kalidou Koulibaly,Chelsea F.C.,15340000.0
+2,N'Golo Kante,Chelsea F.C.,15080000.0
+3,Reece James,Chelsea F.C.,13000000.0
+4,Wesley Fofana,Chelsea F.C.,10400000.0
+5,Ben Chilwell,Chelsea F.C.,9880000.0
+6,César Azpilicueta,Chelsea F.C.,9360000.0
+7,Marc Cucurella,Chelsea F.C.,9100000.0
+8,Pierre-Emerick Aubameyang,Chelsea F.C.,8320000.0
+9,Enzo Fernández,Chelsea F.C.,8190000.0
+10,Kepa Arrizabalaga,Chelsea F.C.,7800000.0
+11,Kai Havertz,Chelsea F.C.,7800000.0
+12,Christian Pulisic,Chelsea F.C.,7800000.0
+13,Ruben Loftus-Cheek,Chelsea F.C.,6240000.0
+14,João Félix,Chelsea F.C.,5720000.0
+15,Thiago Silva,Chelsea F.C.,5720000.0
+16,Carney Chukwuemeka,Chelsea F.C.,5200000.0
+17,David Fofana,Chelsea F.C.,5200000.0
+18,Mateo Kovacic,Chelsea F.C.,5200000.0
+19,Hakim Ziyech,Chelsea F.C.,5200000.0
+20,Denis Zakaria,Chelsea F.C.,4680000.0
+21,Mason Mount,Chelsea F.C.,4160000.0
+22,Edouard Mendy,Chelsea F.C.,2860000.0
+23,Trevoh Chalobah,Chelsea F.C.,2600000.0
+24,Conor Gallagher,Chelsea F.C.,2600000.0
+25,Mykhailo Mudryk,Chelsea F.C.,2600000.0
+26,Benoit Badiashile,Chelsea F.C.,2340000.0
+27,Armando Broja,Chelsea F.C.,2080000.0
+28,Marcus Bettinelli,Chelsea F.C.,1820000.0
+29,Gabriel Slonina,Chelsea F.C.,1040000.0
+30,Malo Gusto,Chelsea F.C.,
+31,Noni Madueke,Chelsea F.C.,
+32,David De Gea,Manchester United F.C.,19500000.0
+33,Jadon Sancho,Manchester United F.C.,18200000.0
+34,Raphael Varane,Manchester United F.C.,17680000.0
+35,Carlos Casimiro,Manchester United F.C.,15600000.0
+36,Anthony Martial,Manchester United F.C.,13000000.0
+37,Bruno Fernandes,Manchester United F.C.,12480000.0
+38,Antony dos Santo,Manchester United F.C.,10400000.0
+39,Marcus Rashford,Manchester United F.C.,10400000.0
+40,Harry Maguire,Manchester United F.C.,9875000.0
+41,Christian Eriksen,Manchester United F.C.,7800000.0
+42,Luke Shaw,Manchester United F.C.,7800000.0
+43,Frederico de Paula Santos,Manchester United F.C.,6240000.0
+44,Victor Lindelof,Manchester United F.C.,6240000.0
+45,Lisandro Martínez,Manchester United F.C.,6240000.0
+46,Donny van de Beek,Manchester United F.C.,6240000.0
+47,Aaron Wan-Bissaka,Manchester United F.C.,4680000.0
+48,Mason Greenwood,Manchester United F.C.,3900000.0
+49,Phil Jones,Manchester United F.C.,3900000.0
+50,Tyrell Malacia,Manchester United F.C.,3900000.0
+51,Brandon Williams,Manchester United F.C.,3380000.0
+52,Scott McTominay,Manchester United F.C.,3120000.0
+53,Marcel Sabitzer,Manchester United F.C.,2860000.0
+54,Tom Heaton,Manchester United F.C.,2180000.0
+55,Diogo Dalot,Manchester United F.C.,1300000.0
+56,Facundo Pellistri,Manchester United F.C.,1040000.0
+57,Anthony Elanga,Manchester United F.C.,260000.0
+58,Teden Mengi,Manchester United F.C.,260000.0
+59,Kobbie Mainoo,Manchester United F.C.,
+60,Kevin De Bruyne,Manchester City F.C.,20800000.0
+61,Erling Haaland,Manchester City F.C.,19500000.0
+62,Jack Grealish,Manchester City F.C.,15600000.0
+63,John Stones,Manchester City F.C.,13000000.0
+64,Phil Foden,Manchester City F.C.,11700000.0
+65,Rodrigo Hernández Cascante,Manchester City F.C.,11440000.0
+66,Manuel Akanji,Manchester City F.C.,9360000.0
+67,Ruben Dias,Manchester City F.C.,9360000.0
+68,Riyad Mahrez,Manchester City F.C.,8320000.0
+69,Kyle Walker,Manchester City F.C.,8320000.0
+70,Kalvin Phillips,Manchester City F.C.,7800000.0
+71,Bernardo Silva,Manchester City F.C.,7800000.0
+72,Ilkay Gundogan,Manchester City F.C.,7280000.0
+73,Aymeric Laporte,Manchester City F.C.,6240000.0
+74,Ederson Moraes,Manchester City F.C.,5200000.0
+75,Nathan Ake,Manchester City F.C.,4800000.0
+76,Benjamin Mendy,Manchester City F.C.,4680000.0
+77,Stefan Ortega,Manchester City F.C.,2860000.0
+78,Julian Álvarez,Manchester City F.C.,2600000.0
+79,Sergio Gomez,Manchester City F.C.,2600000.0
+80,Scott Carson,Manchester City F.C.,1560000.0
+81,Cole Palmer,Manchester City F.C.,1040000.0
+82,Máximo Perrone,Manchester City F.C.,780000.0
+83,Mohamed Salah,Liverpool F.C.,18200000.0
+84,Virgil Van Dijk,Liverpool F.C.,11440000.0
+85,Thiago Alcántara do Nascimento,Liverpool F.C.,10400000.0
+86,Trent Alexander-Arnold,Liverpool F.C.,9360000.0
+87,Roberto Firmino,Liverpool F.C.,9360000.0
+88,Fabinho Tavares,Liverpool F.C.,9360000.0
+89,Alisson Becker,Liverpool F.C.,7800000.0
+90,Jordan Henderson,Liverpool F.C.,7280000.0
+91,Diogo Jota,Liverpool F.C.,7280000.0
+92,Darwin Núñez,Liverpool F.C.,7280000.0
+93,Naby Keita,Liverpool F.C.,6240000.0
+94,Alex Oxlade-Chamberlain,Liverpool F.C.,6240000.0
+95,Arthur Melo,Liverpool F.C.,5720000.0
+96,Joel Matip,Liverpool F.C.,5200000.0
+97,Andrew Robertson,Liverpool F.C.,5200000.0
+98,Joe Gomez,Liverpool F.C.,4420000.0
+99,Ibrahima Konate,Liverpool F.C.,3640000.0
+100,Nathaniel Phillips,Liverpool F.C.,3360000.0
+101,Cody Gakpo,Liverpool F.C.,3120000.0
+102,James Milner,Liverpool F.C.,3120000.0
+103,Adrian San Miguel del Castillo,Liverpool F.C.,3016000.0
+104,Luis Díaz,Liverpool F.C.,2912000.0
+105,Konstantinos Tsimikas,Liverpool F.C.,2600000.0
+106,Fabio Carvalho,Liverpool F.C.,2080000.0
+107,Harvey Elliott,Liverpool F.C.,2080000.0
+108,Curtis Jones,Liverpool F.C.,780000.0
+109,Calvin Ramsay,Liverpool F.C.,780000.0
+110,Caoimhin Kelleher,Liverpool F.C.,520000.0
+111,Stefan Bajcetic,Liverpool F.C.,
+112,Harry Kane,Tottenham Hotspur F.C.,10400000.0
+113,Heung-Min Son,Tottenham Hotspur F.C.,9984000.0
+114,Ivan Perisic,Tottenham Hotspur F.C.,9270000.0
+115,Cristian Romero,Tottenham Hotspur F.C.,8580000.0
+116,Clément Lenglet,Tottenham Hotspur F.C.,7540000.0
+117,Dejan Kulusevski,Tottenham Hotspur F.C.,5720000.0
+118,Pierre-Emile Hojbjerg,Tottenham Hotspur F.C.,5300000.0
+119,Hugo Lloris,Tottenham Hotspur F.C.,5200000.0
+120,Richarlison de Andrade,Tottenham Hotspur F.C.,4680000.0
+121,Lucas Moura,Tottenham Hotspur F.C.,4680000.0
+122,Eric Dier,Tottenham Hotspur F.C.,4420000.0
+123,Ben Davies,Tottenham Hotspur F.C.,4160000.0
+124,Rodrigo Bentancur,Tottenham Hotspur F.C.,3900000.0
+125,Fraser Forster,Tottenham Hotspur F.C.,3900000.0
+126,Davinson Sanchez,Tottenham Hotspur F.C.,3380000.0
+127,Ryan Sessegnon,Tottenham Hotspur F.C.,3000000.0
+128,Yves Bissouma,Tottenham Hotspur F.C.,2860000.0
+129,Pedro Porro,Tottenham Hotspur F.C.,2210000.0
+130,Emerson Royal,Tottenham Hotspur F.C.,2170000.0
+131,Bryan Gil,Tottenham Hotspur F.C.,2080000.0
+132,Oliver Skipp,Tottenham Hotspur F.C.,2080000.0
+133,Japhet Tanganga,Tottenham Hotspur F.C.,1300000.0
+134,Pape Sarr,Tottenham Hotspur F.C.,1040000.0
+135,Arnaut Danjuma,Tottenham Hotspur F.C.,624000.0
+136,Brandon Austin,Tottenham Hotspur F.C.,260000.0
+137,Gabriel Jesus,Arsenal F.C.,13780000.0
+138,Thomas Partey,Arsenal F.C.,10400000.0
+139,Oleksandr Zinchenko,Arsenal F.C.,7800000.0
+140,Ben White,Arsenal F.C.,6240000.0
+141,Granit Xhaka,Arsenal F.C.,6240000.0
+142,Martin Ødegaard,Arsenal F.C.,5980000.0
+143,Kieran Tierney,Arsenal F.C.,5720000.0
+144,Edward Nketiah,Arsenal F.C.,5200000.0
+145,Gabriel Martinelli,Arsenal F.C.,4680000.0
+146,Bukayo Saka,Arsenal F.C.,3640000.0
+147,Aaron Ramsdale,Arsenal F.C.,3220000.0
+148,Takehiro Tomiyasu,Arsenal F.C.,2910000.0
+149,Mohamed Elneny,Arsenal F.C.,2600000.0
+150,Gabriel Magalhães,Arsenal F.C.,2600000.0
+151,Fábio Vieira,Arsenal F.C.,2360000.0
+152,Leandro Trossard,Arsenal F.C.,2340000.0
+153,Rob Holding,Arsenal F.C.,2080000.0
+154,William Saliba,Arsenal F.C.,2080000.0
+155,Emile Smith Rowe,Arsenal F.C.,2080000.0
+156,Ainsley Maitland-Niles,Arsenal F.C.,1820000.0
+157,Matt Turner,Arsenal F.C.,1820000.0
+158,Jakub Kiwior,Arsenal F.C.,1508000.0
+159,Reiss Nelson,Arsenal F.C.,780000.0
+160,Jorge Luiz Frello Filho,Arsenal F.C.,
+161,Lucas Digne,Aston Villa F.C.,8500000.0
+162,Boubacar Kamara,Aston Villa F.C.,7800000.0
+163,Philippe Coutinho,Aston Villa F.C.,6500000.0
+164,Emiliano Martinez,Aston Villa F.C.,6240000.0
+165,Leon Bailey,Aston Villa F.C.,5200000.0
+166,Diego Carlos,Aston Villa F.C.,5200000.0
+167,Leander Dendoncker,Aston Villa F.C.,4680000.0
+168,Matty Cash,Aston Villa F.C.,4160000.0
+169,Tyrone Mings,Aston Villa F.C.,4160000.0
+170,Robin Olsen,Aston Villa F.C.,4160000.0
+171,Emiliano Buendía,Aston Villa F.C.,3900000.0
+172,Douglas Luiz,Aston Villa F.C.,3900000.0
+173,Ollie Watkins,Aston Villa F.C.,3900000.0
+174,Jacob Ramsey,Aston Villa F.C.,3640000.0
+175,Jan Bednarek,Aston Villa F.C.,3120000.0
+176,Calum Chambers,Aston Villa F.C.,2600000.0
+177,John McGinn,Aston Villa F.C.,2600000.0
+178,Álex Moreno,Aston Villa F.C.,1820000.0
+179,Ezri Konsa,Aston Villa F.C.,1560000.0
+180,Ludwig Augustinsson,Aston Villa F.C.,1040000.0
+181,Jed Steer,Aston Villa F.C.,1040000.0
+182,Jhon Durán,Aston Villa F.C.,
+183,Abdoulaye Doucouré,Everton F.C.,6240000.0
+184,Alex Iwobi,Everton F.C.,6240000.0
+185,Yerry Mina,Everton F.C.,6240000.0
+186,Dominic Calvert-Lewin,Everton F.C.,5200000.0
+187,Amadou Onana,Everton F.C.,5200000.0
+188,Jordan Pickford,Everton F.C.,5200000.0
+189,James Tarkowski,Everton F.C.,5200000.0
+190,Idrissa Gueye,Everton F.C.,4160000.0
+191,Michael Keane,Everton F.C.,4160000.0
+192,Ben Godfrey,Everton F.C.,4000000.0
+193,Mason Holgate,Everton F.C.,3640000.0
+194,Vitaliy Mykolenko,Everton F.C.,3016000.0
+195,Conor Coady,Everton F.C.,2860000.0
+196,Seamus Coleman,Everton F.C.,2860000.0
+197,Neal Maupay,Everton F.C.,2600000.0
+198,Asmir Begovic,Everton F.C.,2340000.0
+199,Andros Townsend,Everton F.C.,2080000.0
+200,James Garner,Everton F.C.,1560000.0
+201,Nathan Patterson,Everton F.C.,1456000.0
+202,Tom Davies,Everton F.C.,1300000.0
+203,Demarai Gray,Everton F.C.,1300000.0
+204,Dwight McNeil,Everton F.C.,1300000.0
+205,Ruben Vinagre,Everton F.C.,1250000.0
+206,Anthony Gordon,Everton F.C.,520000.0
+207,Eldin Jakupovic,Everton F.C.,260000.0
+208,Ellis Simms,Everton F.C.,
+209,Lucas Paquetá,West Ham United F.C.,7800000.0
+210,Alphonse Areola,West Ham United F.C.,6240000.0
+211,Kurt Zouma,West Ham United F.C.,6240000.0
+212,Emerson Palmieri,West Ham United F.C.,4940000.0
+213,Gianluca Scamacca,West Ham United F.C.,4680000.0
+214,Michail Antonio,West Ham United F.C.,4420000.0
+215,Thilo Kehrer,West Ham United F.C.,4160000.0
+216,Manuel Lanzini,West Ham United F.C.,3640000.0
+217,Angelo Ogbonna,West Ham United F.C.,3640000.0
+218,Pablo Fornals,West Ham United F.C.,3500000.0
+219,Tomas Soucek,West Ham United F.C.,3500000.0
+220,Maxwel Cornet,West Ham United F.C.,3380000.0
+221,Lukasz Fabianski,West Ham United F.C.,3380000.0
+222,Jared Bowen,West Ham United F.C.,3120000.0
+223,Declan Rice,West Ham United F.C.,3120000.0
+224,Saïd Benrahma,West Ham United F.C.,2860000.0
+225,Nayef Aguerd,West Ham United F.C.,2600000.0
+226,Aaron Cresswell,West Ham United F.C.,2600000.0
+227,Vladimir Coufal,West Ham United F.C.,1820000.0
+228,Flynn Downes,West Ham United F.C.,1300000.0
+229,Ben Johnson,West Ham United F.C.,1040000.0
+230,Jamal Baptiste,West Ham United F.C.,
+231,Luiz Goulart,West Ham United F.C.,
+232,Danny Ings,West Ham United F.C.,
+233,Bruno Guimarães,Newcastle United F.C.,6240000.0
+234,Alexander Isak,Newcastle United F.C.,6240000.0
+235,Matt Targett,Newcastle United F.C.,5200000.0
+236,Kieran Trippier,Newcastle United F.C.,5200000.0
+237,Sven Botman,Newcastle United F.C.,4680000.0
+238,Joelinton Cassio Apolinário de Lira,Newcastle United F.C.,4500000.0
+239,Joe Willock,Newcastle United F.C.,4160000.0
+240,Nick Pope,Newcastle United F.C.,3120000.0
+241,Emil Krafth,Newcastle United F.C.,2860000.0
+242,Sean Longstaff,Newcastle United F.C.,2600000.0
+243,Callum Wilson,Newcastle United F.C.,2400000.0
+244,Matt Ritchie,Newcastle United F.C.,2340000.0
+245,Miguel Almiron,Newcastle United F.C.,2201000.0
+246,Ryan Fraser,Newcastle United F.C.,2173600.0
+247,Jamaal Lascelles,Newcastle United F.C.,2080000.0
+248,Fabian Schar,Newcastle United F.C.,2080000.0
+249,Jamal Lewis,Newcastle United F.C.,2000000.0
+250,Allan Saint-Maximin,Newcastle United F.C.,2000000.0
+251,Martin Dubravka,Newcastle United F.C.,1976000.0
+252,Dan Burn,Newcastle United F.C.,1820000.0
+253,Paul Dummett,Newcastle United F.C.,1820000.0
+254,Javier Manquillo,Newcastle United F.C.,1820000.0
+255,Jacob Murphy,Newcastle United F.C.,1820000.0
+256,Elliot Anderson,Newcastle United F.C.,1560000.0
+257,Mark Gillespie,Newcastle United F.C.,600000.0
+258,Matthew Longstaff,Newcastle United F.C.,390000.0
+259,Kell Watts,Newcastle United F.C.,
+260,Jamie Vardy,Leicester City,7280000.0
+261,James Maddison,Leicester City,5720000.0
+262,Jonny Evans,Leicester City,5200000.0
+263,Ryan Bertrand,Leicester City,4160000.0
+264,Kelechi Iheanacho,Leicester City,4160000.0
+265,Ricardo Pereira,Leicester City,4160000.0
+266,Boubakary Soumaré,Leicester City,4160000.0
+267,Patson Daka,Leicester City,3900000.0
+268,Onyinye Ndidi,Leicester City,3900000.0
+269,Dennis Praet,Leicester City,3900000.0
+270,Jannik Vestergaard,Leicester City,3640000.0
+271,Timothy Castagne,Leicester City,3380000.0
+272,Nampalys Mendy,Leicester City,2860000.0
+273,Wout Faes,Leicester City,2600000.0
+274,Caglar Soyuncu,Leicester City,2340000.0
+275,Harvey Barnes,Leicester City,2080000.0
+276,Danny Ward,Leicester City,2080000.0
+277,Youri Tielemans,Leicester City,1820000.0
+278,James Justin,Leicester City,1560000.0
+279,Alex Smithies,Leicester City,1560000.0
+280,Daniel Amartey,Leicester City,1090000.0
+281,Kiernan Dewsbury-Hall,Leicester City,1040000.0
+282,Luke Thomas,Leicester City,600000.0
+283,Victor Kristiansen,Leicester City,
+284,Mateus Martins,Leicester City,
+285,Harry Souttar,Leicester City,
+286,Thanawat Suengchitthawon,Leicester City,
+287,Wilfried Zaha,Crystal Palace,6760000.0
+288,Odsonne Edouard,Crystal Palace,4930000.0
+289,Nathaniel Clyne,Crystal Palace,4200000.0
+290,Joachim Andersen,Crystal Palace,4130000.0
+291,Vicente Guaita,Crystal Palace,4004000.0
+292,Luka Milivojevic,Crystal Palace,3900000.0
+293,Cheick Doucouré,Crystal Palace,3120000.0
+294,James McArthur,Crystal Palace,2860000.0
+295,Chris Richards,Crystal Palace,2860000.0
+296,Jairo Riedewald,Crystal Palace,2860000.0
+297,Albert Sambi Lokonga,Crystal Palace,2700000.0
+298,Marc Guehi,Crystal Palace,2610000.0
+299,Jean-Philippe Mateta,Crystal Palace,2600000.0
+300,Jeffrey Schlupp,Crystal Palace,2600000.0
+301,James Tomkins,Crystal Palace,2600000.0
+302,Michael Olise,Crystal Palace,2470000.0
+303,Tyrick Mitchell,Crystal Palace,2080000.0
+304,Jordan Ayew,Crystal Palace,1820000.0
+305,Jack Butland,Crystal Palace,1820000.0
+306,Will Hughes,Crystal Palace,1820000.0
+307,Joel Ward,Crystal Palace,1820000.0
+308,Eberech Eze,Crystal Palace,1560000.0
+309,Nathan Ferguson,Crystal Palace,1500000.0
+310,Naouirou Ahamada,Crystal Palace,
+311,Jesse Lingard,Nottingham Forest F.C.,10400000.0
+312,Dean Henderson,Nottingham Forest F.C.,5200000.0
+313,Morgan Gibbs-White,Nottingham Forest F.C.,4160000.0
+314,Chris Wood,Nottingham Forest F.C.,4160000.0
+315,Keylor Navas,Nottingham Forest F.C.,3380000.0
+316,Renan Lodi,Nottingham Forest F.C.,3240000.0
+317,Taiwo Awoniyi,Nottingham Forest F.C.,2600000.0
+318,Neco Williams,Nottingham Forest F.C.,2600000.0
+319,Cheikhou Kouyate,Nottingham Forest F.C.,2340000.0
+320,Moussa Niakhaté,Nottingham Forest F.C.,2340000.0
+321,Willy Boly,Nottingham Forest F.C.,2080000.0
+322,Emmanuel Dennis,Nottingham Forest F.C.,2080000.0
+323,Remo Freuler,Nottingham Forest F.C.,2080000.0
+324,Steve Cook,Nottingham Forest F.C.,1830000.0
+325,Serge Aurier,Nottingham Forest F.C.,1820000.0
+326,Brennan Johnson,Nottingham Forest F.C.,1560000.0
+327,Orel Mangala,Nottingham Forest F.C.,1560000.0
+328,Omar Richards,Nottingham Forest F.C.,1560000.0
+329,Ryan Yates,Nottingham Forest F.C.,1300000.0
+330,Harry Arter,Nottingham Forest F.C.,1160000.0
+331,Giulian Biancone,Nottingham Forest F.C.,1040000.0
+332,Scott McKenna,Nottingham Forest F.C.,1040000.0
+333,Lyle Taylor,Nottingham Forest F.C.,1040000.0
+334,Jack Colback,Nottingham Forest F.C.,780000.0
+335,Danilo Luiz da Silva,Nottingham Forest F.C.,780000.0
+336,Wayne Hennessey,Nottingham Forest F.C.,780000.0
+337,Lewis O'Brien,Nottingham Forest F.C.,780000.0
+338,Gustavo Scarpa,Nottingham Forest F.C.,780000.0
+339,Sam Surridge,Nottingham Forest F.C.,780000.0
+340,Harry Toffolo,Nottingham Forest F.C.,780000.0
+341,Joe Worrall,Nottingham Forest F.C.,780000.0
+342,Carlos Miguel Ribiero Dias,Nottingham Forest F.C.,520000.0
+343,Jordan Smith,Nottingham Forest F.C.,130000.0
+344,Brandon Aguilera,Nottingham Forest F.C.,
+345,Felipe Augusto de Almeida,Nottingham Forest F.C.,
+346,Andre Ayew,Nottingham Forest F.C.,
+347,Adnan Kanuric,Nottingham Forest F.C.,
+348,Jonjo Shelvey,Nottingham Forest F.C.,
+349,Bernd Leno,Fulham F.C.,4680000.0
+350,Layvin Kurzawa,Fulham F.C.,4640000.0
+351,Aleksandar Mitrovic,Fulham F.C.,4160000.0
+352,Cedric Soares,Fulham F.C.,3900000.0
+353,Issa Diop,Fulham F.C.,3640000.0
+354,Kenny Tete,Fulham F.C.,2650000.0
+355,Daniel James,Fulham F.C.,2600000.0
+356,João Palhinha,Fulham F.C.,2600000.0
+357,Andreas Pereira,Fulham F.C.,2600000.0
+358,Tosin Adarabioyo,Fulham F.C.,2110000.0
+359,Willian da Silva,Fulham F.C.,2080000.0
+360,Shane Duffy,Fulham F.C.,2080000.0
+361,Carlos Vinícius,Fulham F.C.,2080000.0
+362,Bobby Reid,Fulham F.C.,1950000.0
+363,Harry Wilson,Fulham F.C.,1820000.0
+364,Sasa Lukic,Fulham F.C.,1638000.0
+365,Tom Cairney,Fulham F.C.,1560000.0
+366,Neeskens Kebano,Fulham F.C.,1560000.0
+367,Tim Ream,Fulham F.C.,1560000.0
+368,Harrison Reed,Fulham F.C.,1560000.0
+369,Antonee Robinson,Fulham F.C.,1430000.0
+370,Manor Solomon,Fulham F.C.,1040000.0
+371,Marek Rodak,Fulham F.C.,780000.0
+372,George Wickens,Fulham F.C.,260000.0
+373,Sylvester Jasper,Fulham F.C.,
+374,Raul Jimenez,Wolverhampton Wanderers F.C.,5200000.0
+375,Jose Moutinho,Wolverhampton Wanderers F.C.,5200000.0
+376,Gonçalo Guedes,Wolverhampton Wanderers F.C.,4680000.0
+377,Matheus Nunes,Wolverhampton Wanderers F.C.,4420000.0
+378,Nelson Semedo,Wolverhampton Wanderers F.C.,4160000.0
+379,Daniel Podence,Wolverhampton Wanderers F.C.,3120000.0
+380,Adama Traore,Wolverhampton Wanderers F.C.,2860000.0
+381,Boubacar Traoré,Wolverhampton Wanderers F.C.,2860000.0
+382,Diego Costa,Wolverhampton Wanderers F.C.,2600000.0
+383,Pedro Neto,Wolverhampton Wanderers F.C.,2600000.0
+384,Ruben Neves,Wolverhampton Wanderers F.C.,2600000.0
+385,Jonny Castro,Wolverhampton Wanderers F.C.,1907000.0
+386,Jonny Otto,Wolverhampton Wanderers F.C.,1907000.0
+387,Sasa Kalajdzic,Wolverhampton Wanderers F.C.,1820000.0
+388,Matheus Cunha,Wolverhampton Wanderers F.C.,1560000.0
+389,José Sá,Wolverhampton Wanderers F.C.,1490000.0
+390,Nathan Collins,Wolverhampton Wanderers F.C.,1040000.0
+391,Max Kilman,Wolverhampton Wanderers F.C.,780000.0
+392,Rayan Aït-Nouri,Wolverhampton Wanderers F.C.,520000.0
+393,Francisco Oliveira,Wolverhampton Wanderers F.C.,520000.0
+394,Toti Gomes,Wolverhampton Wanderers F.C.,260000.0
+395,Daniel Bentley,Wolverhampton Wanderers F.C.,
+396,Craig Dawson,Wolverhampton Wanderers F.C.,
+397,Joe Hodge,Wolverhampton Wanderers F.C.,
+398,Mario Lemina,Wolverhampton Wanderers F.C.,
+399,Louie Moulden,Wolverhampton Wanderers F.C.,
+400,Pablo Sarabia,Wolverhampton Wanderers F.C.,
+401,Andreas Söndergaard,Wolverhampton Wanderers F.C.,
+402,James Ward-Prowse,Southampton F.C.,5200000.0
+403,Theo Walcott,Southampton F.C.,3900000.0
+404,Joe Aribo,Southampton F.C.,3640000.0
+405,Stuart Armstrong,Southampton F.C.,3380000.0
+406,Moussa Djenepo,Southampton F.C.,3380000.0
+407,Mohamed Elyounoussi,Southampton F.C.,3120000.0
+408,Adam Armstrong,Southampton F.C.,2860000.0
+409,Ibrahima Diallo,Southampton F.C.,2860000.0
+410,Alex McCarthy,Southampton F.C.,2600000.0
+411,Duje Caleta-Car,Southampton F.C.,2080000.0
+412,Mislav Orsic,Southampton F.C.,2080000.0
+413,Romain Perraud,Southampton F.C.,2040000.0
+414,Ainsley Maitland-Niles,Southampton F.C.,1820000.0
+415,Lyanco Vojnovic,Southampton F.C.,1820000.0
+416,Che Adams,Southampton F.C.,1560000.0
+417,Roméo Lavia,Southampton F.C.,1300000.0
+418,Sékou Mara,Southampton F.C.,1300000.0
+419,Mohammed Salisu,Southampton F.C.,1300000.0
+420,Kyle Walker-Peters,Southampton F.C.,1200000.0
+421,Gavin Bazunu,Southampton F.C.,1040000.0
+422,Willy Caballero,Southampton F.C.,1040000.0
+423,Armel Bella-Kotchap,Southampton F.C.,780000.0
+424,Samuel Edozie,Southampton F.C.,780000.0
+425,Valentino Livramento,Southampton F.C.,416000.0
+426,Carlos Alcaraz,Southampton F.C.,
+427,James Bree,Southampton F.C.,
+428,Paul Onuachu,Southampton F.C.,
+429,Kamaldeen Sulemana,Southampton F.C.,
+430,Rodrigo Machado,Leeds United F.C.,5200000.0
+431,Patrick Bamford,Leeds United F.C.,3640000.0
+432,Luis Sinisterra,Leeds United F.C.,3380000.0
+433,Junior Firpo,Leeds United F.C.,3120000.0
+434,Tyler Adams,Leeds United F.C.,2860000.0
+435,Jack Harrison,Leeds United F.C.,2600000.0
+436,Marc Roca,Leeds United F.C.,2600000.0
+437,Pascal Struijk,Leeds United F.C.,2600000.0
+438,Brenden Aaronson,Leeds United F.C.,2340000.0
+439,Stuart Dallas,Leeds United F.C.,2340000.0
+440,Robin Koch,Leeds United F.C.,2080000.0
+441,Rasmus Kristensen,Leeds United F.C.,2080000.0
+442,Georginio Rutter,Leeds United F.C.,1820000.0
+443,Sam Greenwood,Leeds United F.C.,1560000.0
+444,Illan Meslier,Leeds United F.C.,1560000.0
+445,Liam Cooper,Leeds United F.C.,1300000.0
+446,Luke Ayling,Leeds United F.C.,1040000.0
+447,Adam Forshaw,Leeds United F.C.,1040000.0
+448,Wilfried Gnonto,Leeds United F.C.,1040000.0
+449,Joel Robles,Leeds United F.C.,1040000.0
+450,Joe Gelhardt,Leeds United F.C.,860000.0
+451,Crysencio Summerville,Leeds United F.C.,780000.0
+452,Kristoffer Klaesson,Leeds United F.C.,570000.0
+453,Maximilian Wöber,Leeds United F.C.,
+454,Jordan Zemura,AFC Bournemouth,4160000.0
+455,David Brooks,AFC Bournemouth,2860000.0
+456,Jefferson Lerma,AFC Bournemouth,2860000.0
+457,Norberto Murara,AFC Bournemouth,2600000.0
+458,Marcos Senesi,AFC Bournemouth,2600000.0
+459,Dominic Solanke,AFC Bournemouth,2600000.0
+460,Hamed Junior Traorè,AFC Bournemouth,2340000.0
+461,Jack Stephens,AFC Bournemouth,2340000.0
+462,Philip Billing,AFC Bournemouth,2080000.0
+463,Lewis Cook,AFC Bournemouth,2080000.0
+464,Ryan Fredericks,AFC Bournemouth,1820000.0
+465,Chris Mepham,AFC Bournemouth,1820000.0
+466,Adam Smith,AFC Bournemouth,1820000.0
+467,Junior Stanislas,AFC Bournemouth,1820000.0
+468,Ryan Christie,AFC Bournemouth,1560000.0
+469,Lloyd Kelly,AFC Bournemouth,1560000.0
+470,Jack Stacey,AFC Bournemouth,1560000.0
+471,Marcus Tavernier,AFC Bournemouth,1040000.0
+472,Mark Travers,AFC Bournemouth,1040000.0
+473,Kieffer Moore,AFC Bournemouth,780000.0
+474,Jaidon Anthony,AFC Bournemouth,520000.0
+475,Joe Rothwell,AFC Bournemouth,416000.0
+476,Dango Ouattara,AFC Bournemouth,
+477,Darren Randolph,AFC Bournemouth,
+478,Antoine Semenyo,AFC Bournemouth,
+479,Ilya Zabarnyi,AFC Bournemouth,
+480,Adam Lallana,Brighton &amp; Hove Albion,4700000.0
+481,Lewis Dunk,Brighton &amp; Hove Albion,3900000.0
+482,Pascal Gross,Brighton &amp; Hove Albion,3120000.0
+483,Adam Webster,Brighton &amp; Hove Albion,2860000.0
+484,Danny Welbeck,Brighton &amp; Hove Albion,2860000.0
+485,Pervis Estupiñán,Brighton &amp; Hove Albion,2660000.0
+486,Alexis Mac Allister,Brighton &amp; Hove Albion,2600000.0
+487,Solly March,Brighton &amp; Hove Albion,2080000.0
+488,Joel Veltman,Brighton &amp; Hove Albion,2000000.0
+489,Tariq Lamptey,Brighton &amp; Hove Albion,1820000.0
+490,Robert Sánchez,Brighton &amp; Hove Albion,1300000.0
+491,Billy Gilmour,Brighton &amp; Hove Albion,1040000.0
+492,Jason Steele,Brighton &amp; Hove Albion,1040000.0
+493,Moises Caicedo,Brighton &amp; Hove Albion,780000.0
+494,Julio Enciso,Brighton &amp; Hove Albion,520000.0
+495,Kaoru Mitoma,Brighton &amp; Hove Albion,520000.0
+496,Jakub Moder,Brighton &amp; Hove Albion,520000.0
+497,Jan Paul van Hecke,Brighton &amp; Hove Albion,260000.0
+498,Facundo Buonanotte,Brighton &amp; Hove Albion,
+499,Ben Mee,Brentford F.C.,2860000.0
+500,Bryan Mbeumo,Brentford F.C.,2340000.0
+501,Kristoffer Ajer,Brentford F.C.,1820000.0
+502,Rico Henry,Brentford F.C.,1820000.0
+503,Keane Lewis-Potter,Brentford F.C.,1820000.0
+504,Christian Nørgaard,Brentford F.C.,1820000.0
+505,Mikkel Damsgaard,Brentford F.C.,1560000.0
+506,Aaron Hickey,Brentford F.C.,1560000.0
+507,Vitaly Janelt,Brentford F.C.,1560000.0
+508,Pontus Jansson,Brentford F.C.,1300000.0
+509,Frank Onyeka,Brentford F.C.,1300000.0
+510,David Raya,Brentford F.C.,1300000.0
+511,Thomas Strakosha,Brentford F.C.,1300000.0
+512,Ivan Toney,Brentford F.C.,1092000.0
+513,Josh Dasilva,Brentford F.C.,1040000.0
+514,Mathias Jensen,Brentford F.C.,1040000.0
+515,Yoane Wissa,Brentford F.C.,1040000.0
+516,Shandon Baptiste,Brentford F.C.,780000.0
+517,Saman Ghoddos,Brentford F.C.,780000.0
+518,Ethan Pinnock,Brentford F.C.,780000.0
+519,Mads Roerslev,Brentford F.C.,520000.0
+520,Fin Stevens,Brentford F.C.,280000.0
+521,Kevin Schade,Brentford F.C.,250000.0
+522,Mads Bech Sørensen,Brentford F.C.,208000.0
